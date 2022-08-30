@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0f4e4643de5434182a48678099c36e, type: 3}
+  m_Name: Emitter 4
+  m_EditorClassIdentifier: 
+  itemName: Silver
+  itemCode: emitter4
+  typeObject: 1
+  hidden: 0
+  currencie: 0
+  cost: 1000
+  image: {fileID: 21300000, guid: 7a3d09938346f0749a7f3ccf6669aa79, type: 3}
+  materials:
+  - {fileID: 2100000, guid: a282c55124f189447b4c820418c1f5f3, type: 2}
+  gameObject: {fileID: 0}
+  mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+  particleSystems:
+  - {fileID: 7584675832124634817, guid: 7d15c07f79f5ec94caf2bf5714460456, type: 3}

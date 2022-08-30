@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0f4e4643de5434182a48678099c36e, type: 3}
+  m_Name: Item 11
+  m_EditorClassIdentifier: 
+  itemName: Suit
+  itemCode: 1
+  hidden: 0
+  currencie: 0
+  cost: 1000
+  sprite: {fileID: 21300000, guid: 540d39be5f563304b9bfe403fe7b50a7, type: 3}
+  materials: []
+  selectColor: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 1}
+  gameObject: {fileID: 6452385317319665620, guid: c77ae3bd43c32324f818c14eea5d21a4, type: 3}

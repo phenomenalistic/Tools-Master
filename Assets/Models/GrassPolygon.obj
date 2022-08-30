@@ -1,0 +1,21 @@
+# ProBuilder 4.5.2
+# https://unity3d.com/unity/features/worldbuilding/probuilder
+# 11.06.2022 12:56:03
+
+mtllib ./GrassPolygon.mtl
+o GrassPolygon
+
+g New Game Object (1)
+v 0 0 -0.1
+v 0 1 1.192093E-07
+v 0 0 0.1
+
+vt -0.1 0
+vt 1.192093E-07 1
+vt 0.1 0
+
+vn -1 0 0
+
+usemtl Lit
+f 2/2/1 1/1/1 3/3/1
+

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0f4e4643de5434182a48678099c36e, type: 3}
+  m_Name: Themes 2
+  m_EditorClassIdentifier: 
+  itemName: Blue
+  itemCode: theme2
+  hidden: 0
+  currencie: 0
+  cost: 1000
+  sprite: {fileID: 0}
+  materials:
+  - {fileID: 2100000, guid: 8851982bd596bed4a834e08f64898ff6, type: 2}
+  selectColor: {r: 0, g: 0, b: 0, a: 0}
+  gameObject: {fileID: 0}

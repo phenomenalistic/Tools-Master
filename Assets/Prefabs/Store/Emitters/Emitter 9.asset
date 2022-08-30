@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0f4e4643de5434182a48678099c36e, type: 3}
+  m_Name: Emitter 9
+  m_EditorClassIdentifier: 
+  itemName: Power
+  itemCode: emitter9
+  typeObject: 1
+  hidden: 0
+  currencie: 0
+  cost: 1000
+  image: {fileID: 21300000, guid: e081dfab138973c4c8ad6389552b10ca, type: 3}
+  materials:
+  - {fileID: 2100000, guid: be8a75652d736264d8ca95743edf0494, type: 2}
+  gameObject: {fileID: 0}
+  mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+  particleSystems:
+  - {fileID: 7584675832124634817, guid: 00c84594d61d10d489c59ef2090709ba, type: 3}
+  - {fileID: 7584675832124634817, guid: a241757d033533d4883f2dee9b5202dd, type: 3}
